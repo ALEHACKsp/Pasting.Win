@@ -69,7 +69,7 @@ int main()
         exit(1);
     }
 
-    //close the handle so its actually readable
+    //close the handle so other shit, can open an handle and read the file.
     CloseHandle(file);
 
     std::cout << xorstr_("Successfully Writen File\nLoading Cheating.lose Paste Driver!\n") << std::endl;
