@@ -15,3 +15,6 @@ debugger, i dumped it to a file, fixed a few issues like (relocation and shit), 
 hwid spoofer repo lmfao. in conclusion level / nexlevel is the same retarded kevin paster which i raped a few months ago, who just knows slightly more so
 he can paste and be not that obvious. oh and btw kevin if ur reading this, can u please not lie to me next time? cuz this is the only driver which is
 referenced in ur kdmapper, so ur driver is obviously not streamed so yeah lol GG.
+
+
+Filename for driver posted in this github, "C:\Windows\Strawberry - serial.tmp" you can write anything to it and load driver, and it will change serial to that :)
